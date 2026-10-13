@@ -2,7 +2,7 @@
 
 **Damage-conditioned task reconfiguration with recoverability-aware whole-body control.**
 
-Research in progress by Sihan Chen. This repository releases the current first-party
+Research in progress by me. This repository releases the current first-partyme
 Python source as a development snapshot. It studies how a legged robot can adjust
 its task after actuator-capacity loss while preserving a feasible recovery path.
 
